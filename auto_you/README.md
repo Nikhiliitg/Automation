@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 # 🔐 Gmail API Setup
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+1. Go to  [ Google Cloud Console](https://console.cloud.google.com/)
 2. Create a project → Enable Gmail API
 3. Configure OAuth consent screen → Add yourself as a test user
 4. Create OAuth Client → Download `client_secret.json`
